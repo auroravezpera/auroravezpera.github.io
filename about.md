@@ -9,3 +9,5 @@ i do various things, such as cooking, baking, skating, art, music production and
 [Notebook](notebook.md)
 
 [Home](index.md)
+
+[Vocabuylary](Vocab.md)
