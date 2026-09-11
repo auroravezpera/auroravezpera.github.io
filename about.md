@@ -10,4 +10,4 @@ i do various things, such as cooking, baking, skating, art, music production and
 
 [Home](index.md)
 
-[Vocabuylary](Vocab.md)
+[Vocabulary](Vocab.md)
