@@ -234,3 +234,17 @@ Blockquotes = Notes/Tips
 Collapsible = Hide/Show detail
 
 Keep it simple, consistent, and clear.
+
+
+console:	The area of a computer that notes from a program can be printed to. Kind of like a notebook.	
+On Skill Struck (python, javascript, and java) this is the area that your code is printed to.
+
+Java comments	Information in you program that does not run, but simply meant to be informative.	
+//This is a comment in Java
+
+internal link	A link that takes a user to a different page in the same site.	
+The following link will take users to the hobbies page within the site.
+<a href=“hobbies.html”>Take me to my Hobbies page</a
+
+external documentation	External documentation is the information about your code that's kept outside the actual source files, like user guides, API references, or manuals, to help others understand how to use or work with your program.	
+
