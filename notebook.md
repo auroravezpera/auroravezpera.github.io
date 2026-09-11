@@ -235,7 +235,7 @@ Collapsible = Hide/Show detail
 
 Keep it simple, consistent, and clear.
 
-
+# Vocabulary
 console:	The area of a computer that notes from a program can be printed to. Kind of like a notebook.	
 On Skill Struck (python, javascript, and java) this is the area that your code is printed to.
 
