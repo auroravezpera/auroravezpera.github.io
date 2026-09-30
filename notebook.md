@@ -248,3 +248,4 @@ The following link will take users to the hobbies page within the site.
 
 external documentation	External documentation is the information about your code that's kept outside the actual source files, like user guides, API references, or manuals, to help others understand how to use or work with your program.	
 
+Concatenation is a very long word which means to combine two strings together with a + sign.
