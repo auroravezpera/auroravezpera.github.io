@@ -246,6 +246,8 @@ internal link	A link that takes a user to a different page in the same site.
 The following link will take users to the hobbies page within the site.
 <a href=“hobbies.html”>Take me to my Hobbies page</a
 
+incrementor: it is '++' where it will increase your number by 1.
+decrementor: it is '--" where it will decrease your number by 1.
 external documentation	External documentation is the information about your code that's kept outside the actual source files, like user guides, API references, or manuals, to help others understand how to use or work with your program.	
 
 Concatenation is a very long word which means to combine two strings together with a + sign.
