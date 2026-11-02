@@ -269,6 +269,18 @@ Why use an ArrayList?
 	• pool.get(2) – Grabs the third item in the list (since counting starts at 0).
 • Maintains Order: It remembers exactly what order you added your items in.
 
+
+Instead of forcing you to write everything from scratch, Java lets you "import" these tools so you can use them instantly in your program.
+Here is exactly what each specific tool does for your quiz game:
+• import java.util.ArrayList;
+Loads the dynamic, expandable list container you used to hold your Question objects.
+• import java.util.Collections;
+Provides utility tricks for collections. In a quiz game, this is usually imported specifically to use Collections.shuffle(pool);, which randomly mixes up your questions so they aren't in the same order every game.
+• import java.util.List;
+Loads the general rules (interface) for lists. It allows you to write clean code like List<Question> pool = new ArrayList<>();.
+• import java.util.Scanner;
+Loads the tool that reads user input. This is what lets your program pause, wait for the player to type their answer (like "true" or "false") into the console, and press Enter.
+
 external documentation	External documentation is the information about your code that's kept outside the actual source files, like user guides, API references, or manuals, to help others understand how to use or work with your program.	
 
 Concatenation is a very long word which means to combine two strings together with a + sign.
