@@ -248,6 +248,12 @@ The following link will take users to the hobbies page within the site.
 
 incrementor: it is '++' where it will increase your number by 1.
 decrementor: it is '--" where it will decrease your number by 1.
+
+
+• pool is an ArrayList, which acts like a dynamic, expanding container used to store multiple items in order.
+• new Question(...) creates a individual question object containing text (like "Does Neptune have a greater mass than earth?") and its correct boolean answer (true or false).
+• .add() is the built-in Java method that takes that newly created question and safely places it inside the container.
+By calling pool.add(...) twenty times, the code builds a collection (or "pool") of 20 different trivia questions that can later be randomized, looped through, or used in a quiz game.
 external documentation	External documentation is the information about your code that's kept outside the actual source files, like user guides, API references, or manuals, to help others understand how to use or work with your program.	
 
 Concatenation is a very long word which means to combine two strings together with a + sign.
