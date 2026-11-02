@@ -254,6 +254,21 @@ decrementor: it is '--" where it will decrease your number by 1.
 • new Question(...) creates a individual question object containing text (like "Does Neptune have a greater mass than earth?") and its correct boolean answer (true or false).
 • .add() is the built-in Java method that takes that newly created question and safely places it inside the container.
 By calling pool.add(...) twenty times, the code builds a collection (or "pool") of 20 different trivia questions that can later be randomized, looped through, or used in a quiz game.
+
+
+Think of a regular array like a grid of lockers built into a wall—if you buy 5 lockers, you can only ever store 5 items. If you get a 6th item, you have to buy a whole new set of lockers.
+An ArrayList is like a backpack. If you drop another item inside, it stretches to fit it.
+
+Why use an ArrayList?
+
+• Dynamic Resizing: You don't need to know how many questions you have ahead of time. You can keep calling .add() forever.
+• Built-in Tools: It comes with pre-made helper functions to easily manipulate your data:
+	• pool.add(item) – Puts an item at the end.
+	• pool.remove(0) – Removes the very first item.
+	• pool.size() – Tells you exactly how many items are currently inside.
+	• pool.get(2) – Grabs the third item in the list (since counting starts at 0).
+• Maintains Order: It remembers exactly what order you added your items in.
+
 external documentation	External documentation is the information about your code that's kept outside the actual source files, like user guides, API references, or manuals, to help others understand how to use or work with your program.	
 
 Concatenation is a very long word which means to combine two strings together with a + sign.
